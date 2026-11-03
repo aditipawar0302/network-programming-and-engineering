@@ -1,0 +1,33 @@
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE settings
+.vscode/
+
+# Database files and local history
+*.db
+*.sqlite
+*.sqlite3
+
+# Packet captures
+*.pcap
+*.pcapng
+
+# Generated reports
+*_report.csv
+*_history.csv
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
