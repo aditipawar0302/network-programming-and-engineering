@@ -162,7 +162,6 @@ Network_Programming_and_Engineering/
 └── requirements.txt
 ```
 
-*Note: The project folders may contain additional supporting files, screenshots, and generated reports.*
 
 ## ⚙️ Getting Started
 
